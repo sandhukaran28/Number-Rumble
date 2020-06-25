@@ -1,0 +1,117 @@
+body
+{
+	background-image:url("https://wallpaperplay.com/walls/full/c/e/e/180299.jpg");
+  background-size:1500px 800px;
+  background-repeat:no-repeat;
+  
+}
+h1
+{
+	text-align:center;
+	  text-shadow: 2px 2px #FF0000;
+	font-family: "Times New Roman", Times, serif;
+	font-weight:bold;
+	font-size:60px;
+	color:#eda437
+	
+
+}
+#first
+{
+	margin:auto;
+	font-size:20px;
+	background-color: #d6ac7a;
+	padding: 14px 28px;
+	border-radius: 12px;
+	border:none;
+	box-shadow: 0 9px #f6f7b0;
+	display:block;
+	cursor: pointer;
+}
+#first:hover
+{
+	background:#6fdaf7;
+	color:white;
+}
+#F1
+{
+	 width:200px;
+  margin: auto;
+}
+#rules
+{
+	color:#ed3737;
+	font-size:30px;
+	text-decoration:underline;
+}
+#rule{
+	color:#fa845c;
+	font-size:20px;
+}
+.navitem
+{
+	margin:auto;
+	font-size:20px;
+	background-color:#d6ac7a;
+	padding: 14px 28px;
+	border-radius: 12px;
+	border:none;
+	box-shadow: 0 9px #f6f7b0;
+	display: inline-block;
+	cursor: pointer;
+	float:left;
+	width:300px;
+	font-weight:bold;
+	}
+	
+#msg_turn
+{
+
+	text-align:center;
+	font-size:25px;
+	color:#b0f7d9;
+}
+#msg_t
+{
+	font-size:50px;
+}
+#myDiv
+{
+	position:inherit;
+	margin:auto;
+	padding-left:15%;
+	display:none;
+}
+#sum1
+{
+	color:#b0f7d9;
+	padding-top:25px;
+	padding-left:40%;
+	font-size:40px;
+	display:block;
+}
+#head1
+{
+	margin-left:35%;
+	margin-right:auto;
+	position:center;
+	width:300px;
+	height:150px;
+}
+#out
+{
+	border:outset;
+	border-width:7px;
+	border-radius: 15px;
+	border-color:white;
+	width:1300px;
+	padding-left:40px;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	height:670px;
+	background-image:url("https://wallpapercave.com/wp/P4LP9H0.jpg");
+	background-repeat:no-repeat;
+	background-size:1370px 700px;
+
+}
