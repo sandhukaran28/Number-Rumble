@@ -1,2 +1,0 @@
-# Number-Rumble
-Number game
